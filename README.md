@@ -17,7 +17,7 @@ Strong collaborative skills in agile and cross-functional teams.
 | **Version Control**   | Git, GitHub, Bitbucket 
 
 
-## ðŸ“‚ **Highlighted Projects**
+📂‚ **Highlighted Projects**
 
 | **Project Name**                | **Description**                                                                                                                                                                 | **Tech Stack**                            |
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
