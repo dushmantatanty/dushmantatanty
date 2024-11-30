@@ -15,3 +15,12 @@ Strong collaborative skills in agile and cross-functional teams.
 | **DevOps**            | Jenkins, GitHub Actions, Docker, Kubernetes, Terraform, Ansible, AWS (EC2, S3, Lambda), Azure, Prometheus, Grafana, ELK Stack                                                              |
 | **Testing**           | JUnit, Mockito, Selenium, Cypress, JMeter                                                                                                                                                  |
 | **Version Control**   | Git, GitHub, Bitbucket 
+
+
+## ðŸ“‚ **Highlighted Projects**
+
+| **Project Name**                | **Description**                                                                                                                                                                 | **Tech Stack**                            |
+|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| **E-Commerce Platform**          | Full-stack application with user authentication, product management, and order processing. Integrated CI/CD pipeline for automated deployment.                                | Java, Spring Boot, React.js, Docker       |
+| **Cloud-Based Task Manager**     | Task management platform with role-based access control, deployed using Docker and Kubernetes.                                                                                | Angular, Node.js, MongoDB, AWS            |
+| **Real-Time Monitoring Dashboard** | Built a dashboard for real-time visualization of server and application metrics. Automated deployment using Terraform and Ansible.                                           | Spring Boot, Angular, Prometheus, Grafana |
