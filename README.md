@@ -17,10 +17,18 @@ Strong collaborative skills in agile and cross-functional teams.
 | **Version Control**   | Git, GitHub, Bitbucket 
 
 
-📂‚ **Highlighted Projects**
+📂 Highlighted Projects
 
 | **Project Name**                | **Description**                                                                                                                                                                 | **Tech Stack**                            |
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | **E-Commerce Platform**          | Full-stack application with user authentication, product management, and order processing. Integrated CI/CD pipeline for automated deployment.                                | Java, Spring Boot, React.js, Docker       |
 | **Cloud-Based Task Manager**     | Task management platform with role-based access control, deployed using Docker and Kubernetes.                                                                                | Angular, Node.js, MongoDB, AWS            |
 | **Real-Time Monitoring Dashboard** | Built a dashboard for real-time visualization of server and application metrics. Automated deployment using Terraform and Ansible.                                           | Spring Boot, Angular, Prometheus, Grafana |
+
+☎, 📞 Contact Me
+
+| **Platform**        | **Details**                                               |
+|---------------------|-----------------------------------------------------------|
+| **Portfolio**       | [https://yourportfolio.com]                               |
+| **Email**           | dushmanta.tanty@gmail.com                                 |
+| **LinkedIn**        | [https://www.linkedin.com/in/dushmanta-tanty/]            |
